@@ -9,7 +9,7 @@ public class EditLead1 extends BaseClass1 {
 	public String[][] fetchDataForEdit() {
 		String[][] data=new String[1][2];
 		
-		data[0][0]="98";
+		data[0][0]="86";
 		data[0][1]="TestLeaf";
 		
 		
